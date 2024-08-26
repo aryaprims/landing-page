@@ -31,12 +31,12 @@ export default function Carousels() {
   };
 
   const works = [
-    { id: 1, image: '/momen1.jpg', title: 'Work 01', subtitle: 'Web Design' },
-    { id: 2, image: '/momen2.jpg', title: 'Work 02', subtitle: 'Web Design' },
-    { id: 3, image: '/momen3.jpg', title: 'Work 03', subtitle: 'Web Design' },
-    { id: 4, image: '/momen4.jpg', title: 'Work 04', subtitle: 'Web Design' },
-    { id: 5, image: '/momen5.jpg', title: 'Work 05', subtitle: 'Web Design' },
-    { id: 6, image: '/momen6.jpg', title: 'Work 06', subtitle: 'Web Design' },
+    { id: 1, image: '/momen1.jpg', title: 'Smart Casual Day', subtitle: '5 menit sebelum tidur' },
+    { id: 2, image: '/momen2.jpg', title: 'Batik Day', subtitle: 'Edisi pake batik' },
+    { id: 3, image: '/momen3.jpg', title: 'Telkom Navy Day', subtitle: 'First Project banget nihhh' },
+    { id: 4, image: '/momen4.jpg', title: 'Smart Casual Day', subtitle: 'Udah mulai nempel2 stickynotes' },
+    { id: 5, image: '/momen5.jpg', title: 'Gray Polo Day', subtitle: 'Lupa ini ngapain' },
+    { id: 6, image: '/momen6.jpg', title: 'Telkom Navy Day', subtitle: 'Versi diluar' },
   ];
 
   return (
