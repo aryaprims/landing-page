@@ -112,7 +112,7 @@ export const members: Member[] = [
     name: 'Yus Lina Adelia Putri',
     image: '/hipster-3',
     title: 'as Hipster',
-    description: 'sang Hipster tampan dan rupawan',
+    description: 'sang Hipster cantik dan menawan',
     socials: [
       {
         icon: Twitter,
