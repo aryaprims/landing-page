@@ -1,4 +1,4 @@
-import { CircleGauge, Cpu, Settings, ShieldCheck, Zap, Medal } from 'lucide-react'
+import { Cpu, Settings, ShieldCheck, Zap, Medal } from 'lucide-react'
 
 export default function Values() {
   return (
