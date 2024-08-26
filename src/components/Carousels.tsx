@@ -15,8 +15,8 @@ export default function Carousels() {
             showStatus={false}
           >
             <div>
-              <img src='//momen1.jpg' alt='Slide 1' className='rounded-xl'/>
-              <p className='legend'>Caption for Slide 1</p>
+              <img src='//momen4.jpg' alt='Slide 1' className='rounded-xl'/>
+              <p className='legend'>2nd meet as Niagara 4</p>
             </div>
             <div>
               <img src='/momen2.jpg' alt='Slide 2' className='rounded-xl'/>
