@@ -30,17 +30,16 @@ export default function Footer() {
               href='#'
               onClick={smoothScroll}
             >
-              Landing Page
+              Niagara 4
             </a>
             <p className='flex items-center gap-2'>
-              <MailIcon className='w-5 h-5' /> email@example.com
+              <MailIcon className='w-5 h-5' /> niagara4@bestgroup.com
             </p>
             <p className='flex items-center gap-2'>
-              <PhoneIcon className='w-5 h-5' /> +123 456 7890
+              <PhoneIcon className='w-5 h-5' /> +62 81244444444
             </p>
             <p className='flex items-center gap-2'>
-              <MapPin className='w-5 h-5' /> 123 Main St, City, Country
-            </p>
+              <MapPin className='w-5 h-5' /> Kolam Cacuk TCUC
           </div>
 
           <ul
@@ -61,7 +60,7 @@ export default function Footer() {
         </div>
         <hr className='bg-secondary' />
         <div className='d-flex justify-content-between'>
-          <p>&copy; 2024 Dark Landing Page. All Rights Reserved.</p>
+          <p>&copy; 2024 Niagara 4 Best Group. All Rights Reserved.</p>
           <div>
             <a href='#' className='text-white me-3'>
               <i className='bi bi-twitter'></i>
