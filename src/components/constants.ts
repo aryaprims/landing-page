@@ -29,10 +29,10 @@ export const navItems = [
 
 export const members: Member[] = [
   {
-    name: 'Hustler 1',
+    name: 'Meytia Putri Asima Marpaung',
     image: '/hustler-1',
-    title: 'Hustler',
-    description: 'sang hustler',
+    title: 'as Hustler',
+    description: 'sang Hustler cantik dan menawan',
     socials: [
       {
         icon: Twitter,
@@ -49,10 +49,10 @@ export const members: Member[] = [
     ],
   },
   {
-    name: 'Hustler 2',
+    name: 'Khafillah Savana Aldaffa',
     image: '/hustler-2',
-    title: 'Hustler',
-    description: 'sang hustler',
+    title: 'as Hustler',
+    description: 'sang Hustler tampan dan rupawan',
     socials: [
       {
         icon: Twitter,
@@ -69,10 +69,10 @@ export const members: Member[] = [
     ],
   },
   {
-    name: 'Hipster 1',
+    name: 'Nadhifa Almyrahanna',
     image: '/hipster-1',
-    title: 'Hipster',
-    description: 'sang hipster',
+    title: 'as Hipster',
+    description: 'sang Hipster cantik dan menawan',
     socials: [
       {
         icon: Twitter,
@@ -89,10 +89,10 @@ export const members: Member[] = [
     ],
   },
   {
-    name: 'Hipster 2',
+    name: 'Benita Ardi',
     image: '/hipster-2',
-    title: 'Hipster',
-    description: 'sang hipster',
+    title: 'as Hipster',
+    description: 'sang Hipster cantik dan menawan',
     socials: [
       {
         icon: Twitter,
@@ -109,10 +109,10 @@ export const members: Member[] = [
     ],
   },
   {
-    name: 'Hipster 3',
+    name: 'Yus Lina Adelia Putri',
     image: '/hipster-3',
-    title: 'Hipster',
-    description: 'sang hipster',
+    title: 'as Hipster',
+    description: 'sang Hipster tampan dan rupawan',
     socials: [
       {
         icon: Twitter,
@@ -129,10 +129,10 @@ export const members: Member[] = [
     ],
   },
   {
-    name: 'hacker 1',
+    name: 'Muhammad Fadhilsyah Lubis',
     image: '/hacker-1',
-    title: 'Hacker',
-    description: 'sang hacker',
+    title: 'as Hacker',
+    description: 'sang Hacker tampan dan rupawan',
     socials: [
       {
         icon: Twitter,
@@ -149,10 +149,10 @@ export const members: Member[] = [
     ],
   },
   {
-    name: 'AL AUFAR',
+    name: 'Arya Prima Al Aufar',
     image: '/hacker-2',
-    title: 'Hacker Terkuat Di Bumi',
-    description: 'siapakah hacker terkuat di bumi? SAYA!',
+    title: 'as Hacker',
+    description: 'sang Hacker tampan dan rupawan',
     socials: [
       {
         icon: Twitter,
