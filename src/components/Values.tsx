@@ -1,4 +1,4 @@
-import { CircleGauge, Cpu, Settings, ShieldCheck, Zap } from 'lucide-react'
+import { CircleGauge, Cpu, Settings, ShieldCheck, Zap, Medal } from 'lucide-react'
 
 export default function Values() {
   return (
@@ -7,9 +7,9 @@ export default function Values() {
         <h2 className='text-4xl text-center font-semibold'>Our Values</h2>
         <div className='lg:w-3/4 lg:mx-auto grid grid-cols-1 lg:grid-cols-6 gap-6'>
           <div className='py-12 bg-slate-300 lg:col-span-2 flex flex-col items-center justify-center gap-4 rounded-xl'>
-            <CircleGauge className='w-16 h-16' />
-            <h5 className='text-xl'>High Performance</h5>
-            <p>Desc</p>
+            <Medal className='w-16 h-16' />
+            <h5 className='text-xl'>Leaderboard</h5>
+            <p>Fitur Leaderboard untuk membakar semangat Siswa agar menjadi yang terbaik</p>
           </div>
           <div className='py-12 bg-slate-300 lg:col-span-2 flex flex-col items-center justify-center gap-4 rounded-xl'>
             <ShieldCheck className='w-16 h-16' />
