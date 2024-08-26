@@ -9,21 +9,17 @@ export default function About() {
           </div>
           <div className='lg:w-1/2 text-center'>
             <p>
-              Our mission is to create innovative, user-friendly, and secure
-              products that help our clients succeed in their digital
-              transformation journey. We believe in the power of collaboration,
-              and we work closely with our clients to bring their vision to
-              life.
+            Pijar Sekolah adalah sebuah platform pembelajaran digital terpadu yang 
+            mendukung pihak sekolah dalam menciptakan pembelajaran digital yang seru dan menyenangkan.
             </p>
           </div>
         </div>
         <div className='lg:w-3/4 lg:mx-auto flex flex-col-reverse gap-4 lg:flex-row items-center justify-around'>
           <div className='lg:w-1/2 text-center'>
             <p>
-              We are a dedicated team of professionals committed to delivering
-              top-notch digital solutions that cater to your specific needs. Our
-              expertise spans across various domains, ensuring that you receive
-              the best service possible.
+            Pijar Sekolah memiliki ribuan konten digital yang menarik, mulai dari Buku Digital Interaktif, 
+            Buku Digital, Video Pembelajaran, hingga Laboratorium Maya yang bisa dimanfaatkan oleh semua siswa 
+            untuk mendukung mereka dalam belajar di sekolah.
             </p>
           </div>
           <div className='lg:w-1/3'>
