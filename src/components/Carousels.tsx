@@ -31,12 +31,12 @@ export default function Carousels() {
   };
 
   const works = [
-    { id: 1, image: '/images/work-1.jpg', title: 'Work 01', subtitle: 'Web Design' },
-    { id: 2, image: '/images/work-2.jpg', title: 'Work 02', subtitle: 'Web Design' },
-    { id: 3, image: '/images/work-3.jpg', title: 'Work 03', subtitle: 'Web Design' },
-    { id: 4, image: '/images/work-4.jpg', title: 'Work 04', subtitle: 'Web Design' },
-    { id: 5, image: '/images/work-5.jpg', title: 'Work 05', subtitle: 'Web Design' },
-    { id: 6, image: '/images/work-6.jpg', title: 'Work 06', subtitle: 'Web Design' },
+    { id: 1, image: '/public/work-1.jpg', title: 'Work 01', subtitle: 'Web Design' },
+    { id: 2, image: '/public/work-2.jpg', title: 'Work 02', subtitle: 'Web Design' },
+    { id: 3, image: '/public/work-3.jpg', title: 'Work 03', subtitle: 'Web Design' },
+    { id: 4, image: '/public/work-4.jpg', title: 'Work 04', subtitle: 'Web Design' },
+    { id: 5, image: '/public/work-5.jpg', title: 'Work 05', subtitle: 'Web Design' },
+    { id: 6, image: '/public/work-6.jpg', title: 'Work 06', subtitle: 'Web Design' },
   ];
 
   return (
