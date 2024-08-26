@@ -4,9 +4,9 @@ export default function Hero() {
       <div className='container'>
         <div className='lg:w-3/4 lg:mx-auto flex flex-col lg:flex-row items-center justify-between'>
           <div className='w-full lg:w-1/2 flex flex-col gap-5'>
-            <h1 className='text-6xl font-bold'>Welcome to the Landing Page</h1>
+            <h1 className='text-6xl font-bold'>Welcome to PijarSekolah</h1>
             <p className='text-2xl'>
-              Experience the elegance of a dark-themed design.
+              Digitalisasi, Edukasi, Berprestasi!
             </p>
             <a
               href='#features'
