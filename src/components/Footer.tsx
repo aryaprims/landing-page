@@ -40,6 +40,7 @@ export default function Footer() {
             </p>
             <p className='flex items-center gap-2'>
               <MapPin className='w-5 h-5' /> Kolam Cacuk TCUC
+            </p>
           </div>
 
           <ul

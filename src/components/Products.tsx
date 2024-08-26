@@ -9,6 +9,7 @@ export default function Products() {
         <a
               href='https://www.figma.com/proto/NAFZFZQFovC7AY4T5ZZS02/GROUP4_PIJAR-SEKOLAH?node-id=25-17196&t=ERMxsOi7VjS5s0Wg-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=25%3A17196'
               className='py-4 px-8 bg-blue-500 text-white rounded-xl w-fit flex justify-center'
+              target='_blank'
         >
               Test Prototype
         </a>
