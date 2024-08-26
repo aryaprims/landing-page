@@ -1,4 +1,4 @@
-import { Cpu, Settings, ShieldCheck, Zap, Medal } from 'lucide-react'
+import { Cpu, Settings, SquarePen, Zap, Medal } from 'lucide-react'
 
 export default function Values() {
   return (
@@ -12,9 +12,9 @@ export default function Values() {
             <p>Fitur Ranking Siswa Terbaik</p>
           </div>
           <div className='py-12 bg-slate-300 lg:col-span-2 flex flex-col items-center justify-center gap-4 rounded-xl'>
-            <ShieldCheck className='w-16 h-16' />
-            <h5 className='text-xl'>Security First</h5>
-            <p>Desc</p>
+            <SquarePen className='w-16 h-16' />
+            <h5 className='text-xl'>Absensi</h5>
+            <p>Fitur Absensi, Kehadiran, serta Reminder Absensi</p>
           </div>
           <div className='py-12 bg-slate-300 lg:col-span-2 flex flex-col items-center justify-center gap-4 rounded-xl'>
             <Zap className='w-16 h-16' />
