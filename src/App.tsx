@@ -6,6 +6,7 @@ import Products from './components/Products'
 import Team from './components/Team'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
+import Carousel from './components/Carousel'
 
 export default function App() {
   return (
@@ -16,6 +17,7 @@ export default function App() {
       <Values />
       <Products />
       <Team />
+      <Carousel />
       <Contact />
       <Footer />
     </>

@@ -1,0 +1,34 @@
+import React from 'react';
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+import { Carousel } from 'react-responsive-carousel';
+
+export default function ImageCarousel() {
+  return (
+    <section id='carousel' className='py-32 bg-slate-100 mt-20'>
+      <div className='container'>
+        <div className='lg:w-3/4 lg:mx-auto'>
+          <Carousel 
+            showThumbs={false} 
+            autoPlay 
+            infiniteLoop 
+            interval={3000} 
+            showStatus={false}
+          >
+            <div>
+              <img src='/photo1.png' alt='Slide 1' className='rounded-xl'/>
+              <p className='legend'>Caption for Slide 1</p>
+            </div>
+            <div>
+              <img src='/photo2.png' alt='Slide 2' className='rounded-xl'/>
+              <p className='legend'>Caption for Slide 2</p>
+            </div>
+            <div>
+              <img src='/photo3.png' alt='Slide 3' className='rounded-xl'/>
+              <p className='legend'>Caption for Slide 3</p>
+            </div>
+          </Carousel>
+        </div>
+      </div>
+    </section>
+  );
+}
