@@ -32,7 +32,7 @@ export default function Navbar() {
           href='#'
           onClick={smoothScroll}
         >
-          Landing Page
+          Niagara 4
         </a>
         <button
           type='button'
