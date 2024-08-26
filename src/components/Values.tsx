@@ -1,4 +1,4 @@
-import { Waypoints, Settings, SquarePen, Handshake, Medal } from 'lucide-react'
+import { Waypoints, Gem, SquarePen, Handshake, Medal } from 'lucide-react'
 
 export default function Values() {
   return (
@@ -27,9 +27,9 @@ export default function Values() {
             <p className='text-center'>Sistem terintegrasi dengan Guru, Murid, dan Orang tua</p>
           </div>
           <div className='py-12 bg-slate-300 lg:col-span-3 flex flex-col items-center justify-center gap-4 rounded-xl'>
-            <Settings className='w-16 h-16' />
-            <h5 className='text-xl'>Free Maintenance</h5>
-            <p>Desc</p>
+            <Gem className='w-16 h-16' />
+            <h5 className='text-xl'>Fitur Andalan</h5>
+            <p className='text-center'>Kelas, Absensi, Tugas</p>
           </div>
         </div>
       </div>
