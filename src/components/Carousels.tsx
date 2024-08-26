@@ -6,6 +6,7 @@ export default function Carousels() {
   return (
     <section id='carousel' className='py-32 bg-slate-100 mt-20'>
       <div className='container'>
+        <h2 className='text-4xl text-center font-semibold'>Our Moments</h2>
         <div className='lg:w-3/4 lg:mx-auto'>
           <Carousel 
             showThumbs={false} 

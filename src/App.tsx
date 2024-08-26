@@ -6,7 +6,7 @@ import Products from './components/Products'
 import Team from './components/Team'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
-import Carousel from './components/Carousel'
+import Carousel from './components/Carousels'
 
 export default function App() {
   return (
