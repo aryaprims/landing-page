@@ -1,4 +1,4 @@
-import { Cpu, Settings, SquarePen, Handshake, Medal } from 'lucide-react'
+import { Waypoints, Settings, SquarePen, Handshake, Medal } from 'lucide-react'
 
 export default function Values() {
   return (
@@ -22,9 +22,9 @@ export default function Values() {
             <p className='text-center'>Mudah digunakan serta terdapat Video Tutorial</p>
           </div>
           <div className='py-12 bg-slate-300 lg:col-span-3 flex flex-col items-center justify-center gap-4 rounded-xl'>
-            <Cpu className='w-16 h-16' />
-            <h5 className='text-xl'>Smart Technology</h5>
-            <p>Desc</p>
+            <Waypoints className='w-16 h-16' />
+            <h5 className='text-xl'>Integrated System</h5>
+            <p className='text-center'>Sistem terintegrasi dengan Guru, Murid, dan Orang tua</p>
           </div>
           <div className='py-12 bg-slate-300 lg:col-span-3 flex flex-col items-center justify-center gap-4 rounded-xl'>
             <Settings className='w-16 h-16' />
