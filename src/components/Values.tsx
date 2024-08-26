@@ -1,4 +1,4 @@
-import { Cpu, Settings, SquarePen, Zap, Medal } from 'lucide-react'
+import { Cpu, Settings, SquarePen, Handshake, Medal } from 'lucide-react'
 
 export default function Values() {
   return (
@@ -17,9 +17,9 @@ export default function Values() {
             <p className='text-center'>Fitur Absensi & Kehadiran disertai dengan Reminder</p>
           </div>
           <div className='py-12 bg-slate-300 lg:col-span-2 flex flex-col items-center justify-center gap-4 rounded-xl'>
-            <Zap className='w-16 h-16' />
-            <h5 className='text-xl'>Fast Deployment</h5>
-            <p>Desc</p>
+            <Handshake className='w-16 h-16' />
+            <h5 className='text-xl'>Easy to Use</h5>
+            <p className='text-center'>Mudah digunakan serta terdapat Video Tutorial</p>
           </div>
           <div className='py-12 bg-slate-300 lg:col-span-3 flex flex-col items-center justify-center gap-4 rounded-xl'>
             <Cpu className='w-16 h-16' />
