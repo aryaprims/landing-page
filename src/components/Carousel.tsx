@@ -2,7 +2,7 @@ import React from 'react';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import { Carousel } from 'react-responsive-carousel';
 
-export default function ImageCarousel() {
+export default function Carousels() {
   return (
     <section id='carousel' className='py-32 bg-slate-100 mt-20'>
       <div className='container'>
