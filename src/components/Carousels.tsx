@@ -14,27 +14,27 @@ export default function Carousels() {
             interval={3000} 
             showStatus={false}
           >
-            <div>
+            <div className="w-64 h-64 mx-auto overflow-hidden rounded-xl">
               <img 
                 src='/momen4.jpg' 
                 alt='Slide 1' 
-                className='rounded-xl mx-auto object-cover w-64 h-64' 
+                className='object-cover w-full h-full'
               />
               <p className='legend'>2nd meet as Niagara 4</p>
             </div>
-            <div>
+            <div className="w-64 h-64 mx-auto overflow-hidden rounded-xl">
               <img 
                 src='/momen2.jpg' 
                 alt='Slide 2' 
-                className='rounded-xl mx-auto object-cover w-64 h-64' 
+                className='object-cover w-full h-full'
               />
               <p className='legend'>Caption for Slide 2</p>
             </div>
-            <div>
+            <div className="w-64 h-64 mx-auto overflow-hidden rounded-xl">
               <img 
                 src='/momen3.jpg' 
                 alt='Slide 3' 
-                className='rounded-xl mx-auto object-cover w-64 h-64' 
+                className='object-cover w-full h-full'
               />
               <p className='legend'>First Meet as Niagara 4</p>
             </div>
