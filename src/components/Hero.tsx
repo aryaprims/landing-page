@@ -9,7 +9,7 @@ export default function Hero() {
               Digitalisasi, Edukasi, Berprestasi!
             </p>
             <a
-              href='#features'
+              href='#values'
               className='py-4 px-8 bg-teal-500 text-white rounded-xl w-fit'
             >
               Explore Features

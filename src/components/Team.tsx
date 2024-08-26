@@ -4,7 +4,7 @@ export default function Team() {
   return (
     <section id='team' className='py-32'>
       <div className='container flex flex-col gap-6'>
-        <h2 className='text-4xl text-center font-semibold'>Our Values</h2>
+        <h2 className='text-4xl text-center font-semibold'>Our Great Team</h2>
         <div className='lg:w-3/4 lg:mx-auto grid grid-cols-1 lg:grid-cols-12 gap-6'>
           {members.map((member, index) => (
             <div
