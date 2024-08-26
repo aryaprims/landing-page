@@ -31,10 +31,10 @@ export default function Carousels() {
   };
 
   const works = [
-    { id: 1, image: '/work-1.jpg', title: 'Work 01', subtitle: 'Web Design' },
-    { id: 2, image: '/work-2.jpg', title: 'Work 02', subtitle: 'Web Design' },
-    { id: 3, image: '/work-3.jpg', title: 'Work 03', subtitle: 'Web Design' },
-    { id: 4, image: '/work-4.jpg', title: 'Work 04', subtitle: 'Web Design' },
+    { id: 1, image: '/momen1.jpg', title: 'Work 01', subtitle: 'Web Design' },
+    { id: 2, image: '/momen2.jpg', title: 'Work 02', subtitle: 'Web Design' },
+    { id: 3, image: '/momen3.jpg', title: 'Work 03', subtitle: 'Web Design' },
+    { id: 4, image: '/momen4.jpg', title: 'Work 04', subtitle: 'Web Design' },
     { id: 5, image: '/work-5.jpg', title: 'Work 05', subtitle: 'Web Design' },
     { id: 6, image: '/work-6.jpg', title: 'Work 06', subtitle: 'Web Design' },
   ];
