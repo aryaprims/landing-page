@@ -23,8 +23,8 @@ export default function Carousels() {
               <p className='legend'>Caption for Slide 2</p>
             </div>
             <div>
-              <img src='/photo3.png' alt='Slide 3' className='rounded-xl'/>
-              <p className='legend'>Caption for Slide 3</p>
+              <img src='/momen3.jpg' alt='Slide 3' className='rounded-xl'/>
+              <p className='legend'>First Meet as Niagara 4</p>
             </div>
           </Carousel>
         </div>
